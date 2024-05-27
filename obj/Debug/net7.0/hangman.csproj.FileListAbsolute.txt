@@ -1,0 +1,14 @@
+C:\Users\lemw0\Desktop\hangman\bin\Debug\net7.0\hangman.exe
+C:\Users\lemw0\Desktop\hangman\bin\Debug\net7.0\hangman.deps.json
+C:\Users\lemw0\Desktop\hangman\bin\Debug\net7.0\hangman.runtimeconfig.json
+C:\Users\lemw0\Desktop\hangman\bin\Debug\net7.0\hangman.dll
+C:\Users\lemw0\Desktop\hangman\bin\Debug\net7.0\hangman.pdb
+C:\Users\lemw0\Desktop\hangman\obj\Debug\net7.0\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemw0\Desktop\hangman\obj\Debug\net7.0\hangman.AssemblyInfoInputs.cache
+C:\Users\lemw0\Desktop\hangman\obj\Debug\net7.0\hangman.AssemblyInfo.cs
+C:\Users\lemw0\Desktop\hangman\obj\Debug\net7.0\hangman.csproj.CoreCompileInputs.cache
+C:\Users\lemw0\Desktop\hangman\obj\Debug\net7.0\hangman.dll
+C:\Users\lemw0\Desktop\hangman\obj\Debug\net7.0\refint\hangman.dll
+C:\Users\lemw0\Desktop\hangman\obj\Debug\net7.0\hangman.pdb
+C:\Users\lemw0\Desktop\hangman\obj\Debug\net7.0\hangman.genruntimeconfig.cache
+C:\Users\lemw0\Desktop\hangman\obj\Debug\net7.0\ref\hangman.dll
